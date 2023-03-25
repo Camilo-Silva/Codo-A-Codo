@@ -1,0 +1,40 @@
+h1 {
+    color: aqua;
+}
+
+span {
+    color: red;
+}
+
+#miid {
+    color: green;
+}
+
+.miclase {
+    color: blue;
+    background-color: chartreuse;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.mi-cajita {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    border-style: solid;
+    border-color: brown;
+    border-width: 5px;
+    border-radius: 20px;
+}
+
+ul li.item2 {
+    color: red;
+    background-color: coral;
+}
+
+.item2 {
+    color: green;
+}
+#box {
+    background-color: yellow;
+}

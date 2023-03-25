@@ -1,0 +1,14 @@
+CSS para darle estilos al HTML.
+#TEMAS
+[] INTRODUCCION A GIT
+[] INTRODUCCION A GITHUB
+
+1. PASO INSTALAR GIT LOCALMENTE EN MI PC
+2. PASO CREAR UN REPOSITORIO EN GITHUB (usuario: Camilo Silva y password: 123456)
+3. VAMOS A LA TERMINAL ESCRIBIMOS LOS SIGUIENTES COMANDOS.
+git config --global user.name "CamiloSilva"
+git config --global user.mail "camilosilva.0301@gmail.com"
+
+Despues se abre una ventana de texto y escribimos el password de GITHUB
+
+
