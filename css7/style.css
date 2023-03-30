@@ -1,0 +1,44 @@
+html {
+    /* mi html por defecto es un 1em */
+    font-size: 16px; /* 1em = 16px*/
+}
+
+/* Unidades de medida Absolutas */
+.px {   
+    font-size: 50px;
+}
+
+.cm {
+    font-size: 1cm;
+}
+
+.mm {
+    font-size: 15mm;
+}
+
+/* UNidades de Medida Relativas */
+
+section {
+    font-size: 2rem;
+}
+
+.unaClaseEm {
+    font-size: 2em;
+    background-color: aquamarine;
+}
+
+.unaClaseRem {
+    font-size: 2rem;
+    background-color: aqua;
+    /* 16px x 2 = 32px */
+}
+
+.unaClasePorcentaje {
+    font-size: 150%;
+    color: rgb(192, 60, 60);
+}
+
+img {
+    width: 50vw;
+    height: 100vh;
+}

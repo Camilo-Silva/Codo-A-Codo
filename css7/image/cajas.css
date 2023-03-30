@@ -1,0 +1,30 @@
+.padding {
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+}
+
+.border {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border: 20px solid blue;
+}
+
+.margin {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+.caja-completa {
+    width: 200px;
+    height: 200px;
+    background-color: chartreuse;
+    padding: 20px; /*Padding, es el espacio entre el borde y el contenido*/
+    border: 20px blue solid; /*border, es es literalmente el borde de la caja*/
+    margin: 20px; /*margin. es el espacio entre la caja y las demas cajas*/
+    box-sizing: border-box; /*Sirve para que no se sume los px de acnho y alto, no suma padding y border*/
+}
