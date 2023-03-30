@@ -1,0 +1,31 @@
+html {
+    font-size: 62.5%;
+}
+
+.caja1 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    float: left;
+}
+
+.caja2 {
+    width: 200px;
+    height: 200px;
+    background-color: olive;
+    float: right;
+}
+
+.caja3 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    float: left; /* corre la cajita a la izquierda*/
+    clear: both; /* limpia los flotantes*/
+}
+
+p {
+    color: white;
+    font-size: 2rem;
+    
+}

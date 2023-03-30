@@ -1,0 +1,49 @@
+/* Aplica determinadas reglas a un selector */
+html {
+    font-size: 62.5%;
+}
+
+h1 {
+    color: aqua;
+}
+
+a {
+    font-size: 2rem;
+    text-decoration: none;
+    /*esconde el subrayado del link*/
+}
+
+a:hover {
+    /*Cuando se pasa el mouse por encima cambia la propiedad, en el ejemplo a color Rojo*/
+    color: red;
+}
+
+a:active {
+    /*Cambia las propiedades del link despues de que se uso, en este ejemplo cambia a color verde y se hace*/
+    color: greenyellow;
+    font-size: 4rem;
+}
+
+a:link {
+    color: black;
+}
+
+li:nth-child(2) { /*En una lista asigna una unica propiedad, en este ejemplo backgroud-color =naranja*/
+    background-color: goldenrod;
+}
+
+
+p.p1::first-letter {
+    font-size: 6rem;
+    color: red;
+}
+
+p:hover {
+    font-size: 2rem;
+    background-color: aqua;
+    
+}
+
+input:focus {
+    background-color: yellow;
+  }
