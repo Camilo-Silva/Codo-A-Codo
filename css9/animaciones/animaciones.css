@@ -1,0 +1,47 @@
+@keyframes animacion1 { /*configuramos la animación*/
+    from{
+        left: 0px; /*posición inicial*/
+    }
+    to{
+        left: 300px; /*posición final*/
+    }
+}
+
+@keyframes animacion2 { /*configuramos la animación*/
+    0% {
+        left: 0px; /*posición inicial*/
+    }
+    50%{
+        left: 300px; /*posición final*/
+    }
+    100%{
+        left: 0px;
+    }
+}
+
+.animacion1 {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;   
+    position: relative; /*necesario para que funcione la animación*/
+    background-color: aquamarine;
+
+    animation-name: animacion1; /*nombre de la animación*/
+    animation-duration: 5s; /*Duración de la animación*/
+    animation-iteration-count: infinite;
+    animation-delay: 2s;
+    animation-direction: alternate;
+}
+
+.animacion2 {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    position: relative; /*necesario para que funcione la animación*/
+    background-color: yellow;
+    
+
+    animation-name: animacion2; /*nombre de la animación*/
+    animation-duration: 5s; /*Duración de la animación*/
+    animation-iteration-count: infinite;
+}

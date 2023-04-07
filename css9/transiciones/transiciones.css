@@ -1,0 +1,29 @@
+nav {
+    /* border: 1px solid black; */
+    margin: 37px;
+}
+
+a {
+    background-color: red;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px;
+    text-decoration: none;
+
+    transition-property: all; /*propiedades que se vana animar*/
+    transition-duration: 0.9s; /*Duracion de la animacion*/
+    transition-delay: 0.3s; /*Tiempo de espera antes de la animación*/
+    transition-timing-function: ease-in; /*Tipo de animacion*/
+}
+
+a:hover {
+    color: white;
+    padding: 40px;
+    text-decoration: none;
+
+    transition-property: all; /*propiedades que se vana animar*/
+    transition-duration: 0.9s; /*Duracion de la animacion*/
+    transition-delay: 0.3s; /*Tiempo de espera antes de la animación*/
+    transition-timing-function: ease-in; /*Tipo de animacion*/
+
+}
