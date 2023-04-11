@@ -1,3 +1,20 @@
-html {
-    font-size: 62.5%;
+html{
+    font-size: 62.5%; /* 1rem = 10px */
+}
+
+.grid-contenedor{
+    display: grid;
+    background-color: bisque;
+    grid-template-columns: 1fr 2fr 1fr; /* definos las columnas 1fr = 1 fracción de la pantalla */
+    grid-template-rows: 10rem 10rem 10rem 10rem; /* definos las filas */
+    /*grid-gap: 1rem; /* separación entre filas y columnas */
+    column-gap: 1rem; /* separación entre columnas */
+    row-gap: 1rem; /* separación entre filas */
+}
+
+.grid-item{
+    background-color: blue;
+    border: 1px solid black;
+  /*  display: flex;
+    align-self: center;*/
 }
