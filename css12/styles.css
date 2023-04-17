@@ -1,0 +1,11 @@
+.container {
+    border: 1px solid black;
+}
+
+.row {
+    border: 1px solid black;
+}
+
+.col-sm, .col-sm-8, .col-sm-6, .col-sm-2, .col-sm {
+    border: 1px solid black;
+}
