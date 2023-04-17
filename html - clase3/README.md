@@ -13,7 +13,7 @@ Imagenes
 
 HOME
 
-![](/Home.jpggit)
+![](/Home.jpg)
 
 ACCESORIOS
 ![](/wireframe/Accesorios.jpg)
