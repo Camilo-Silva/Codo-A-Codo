@@ -10,3 +10,4 @@ Imagenes
 ![](/wireframe/Indumentaria.jpg)
 ![](/wireframe/Locales.png)
 ![](/wireframe/Contacto.jpg)
+![](/image.png)
