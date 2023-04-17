@@ -1,4 +1,4 @@
-# INtegrantes test
+# Integrantes test
 
 [] Introducion a HTML
 [] Etiquetas
@@ -31,4 +31,5 @@ CONTACTO
 IMAGEN PNG
 
 ![](/image.png)
+
 prueba numero 2
