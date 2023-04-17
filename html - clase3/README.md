@@ -13,7 +13,7 @@ Imagenes
 
 HOME
 
-![](/Home.jpg)
+![](./wireframe/Home.jpg)
 
 ACCESORIOS
 
@@ -21,19 +21,19 @@ ACCESORIOS
 
 INDUMETARIA
 
-![](/wireframe/Indumentaria.jpg)
+![](./wireframe/Indumentaria.jpg)
 
 LOCALES
 
-![](/wireframe/Locales.png)
+![](./wireframe/Locales.png)
 
 
 CONTACTO
 
-![](/wireframe/Contacto.jpg)
+![](./wireframe/Contacto.jpg)
 
 IMAGEN PNG
 
-![](/image.png)
+![](./image.png)
 
 prueba numero 2
