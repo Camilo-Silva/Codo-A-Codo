@@ -16,7 +16,8 @@ HOME
 ![](/Home.jpg)
 
 ACCESORIOS
-![](/wireframe/Accesorios.jpg)
+
+![](./wireframe/Accesorios.jpg)
 
 INDUMETARIA
 
