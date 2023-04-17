@@ -10,8 +10,11 @@
 - numero 2
 
 Imagenes
+
 HOME
-![](/wireframe/Home.jpg)
+
+![](/Home.jpg)
+
 ACCESORIOS
 ![](/wireframe/Accesorios.jpg)
 
