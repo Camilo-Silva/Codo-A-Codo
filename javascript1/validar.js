@@ -1,1 +1,0 @@
-// Script de validaciones de fomrulario por ejemplo
